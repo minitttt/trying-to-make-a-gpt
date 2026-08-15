@@ -1,1 +1,1 @@
-## just run notebook chatgpt.ipynb ##
+## just run notebook gpt.ipynb ##
